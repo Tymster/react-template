@@ -6,11 +6,12 @@
     "parcel": "^2.8.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-feather": "^2.0.10",
     "react-router-dom": "^6.8.1"
   },
   "scripts": {
     "dev": "parcel serve ./index.html",
-    "watch" : "tailwindcss --watch -o src/output.css",
+    "watch": "tailwindcss --watch -o src/output.css",
     "build": "parcel build ./index.html"
   },
   "devDependencies": {
